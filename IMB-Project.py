@@ -9,8 +9,6 @@ Original file is located at
 
 !pip install transformers torch gradio PyPDF2 -q
 
-!pip install transformers torch gradio PyPDF2 -q
-
 import gradio as gr
 import torch
 from transformers import AutoTokenizer, AutoModelForCausalLM
